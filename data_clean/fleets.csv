@@ -1,0 +1,835 @@
+,index,registration,aircraft_type,serial_No,age,company
+0,1,C-FYJI,Airbus A319-114,0682,22,Air Canada
+1,2,C-FYKC,Airbus A319-114,0691,22,Air Canada
+2,3,C-FYKR,Airbus A319-114,0693,22,Air Canada
+3,4,C-FZUH,Airbus A319-114,0711,22,Air Canada
+4,5,C-FZUJ,Airbus A319-114,0719,22,Air Canada
+5,6,C-FZUL,Airbus A319-114,0721,22,Air Canada
+6,7,C-GAPY,Airbus A319-114,0728,22,Air Canada
+7,8,C-GAQL,Airbus A319-114,0732,22,Air Canada
+8,9,C-GAQX,Airbus A319-114,0736,22,Air Canada
+9,10,C-GAQZ,Airbus A319-114,0740,22,Air Canada
+10,11,C-GARG,Airbus A319-114,0742,22,Air Canada
+11,12,C-GBHM,Airbus A319-114,0769,22,Air Canada
+12,13,C-GBHN,Airbus A319-114,0773,22,Air Canada
+13,14,C-GBIA,Airbus A319-114,0817,22,Air Canada
+14,15,C-GBIK,Airbus A319-114,0831,21,Air Canada
+15,16,C-GBIP,Airbus A319-114,0546,24,Air Canada
+16,18,C-FDCA,Airbus A320-211,0232,28,Air Canada
+17,19,C-FDRK,Airbus A320-211,0084,30,Air Canada
+18,20,C-FDRP,Airbus A320-211,0122,29,Air Canada
+19,21,C-FDSN,Airbus A320-211,0126,29,Air Canada
+20,22,C-FDST,Airbus A320-211,0127,29,Air Canada
+21,23,C-FDSU,Airbus A320-211,0141,29,Air Canada
+22,24,C-FFWI,Airbus A320-211,0149,29,Air Canada
+23,25,C-FFWM,Airbus A320-211,0154,29,Air Canada
+24,26,C-FGJI,Airbus A320-214,1787,17,Air Canada
+25,27,C-FGKH,Airbus A320-214,1975,17,Air Canada
+26,28,C-FGYL,Airbus A320-211,0254,28,Air Canada
+27,29,C-FGYS,Airbus A320-211,0255,28,Air Canada
+28,30,C-FKCK,Airbus A320-211,0265,28,Air Canada
+29,31,C-FKCO,Airbus A320-211,0277,28,Air Canada
+30,32,C-FKCR,Airbus A320-211,0290,28,Air Canada
+31,33,C-FKOJ,Airbus A320-211,0330,27,Air Canada
+32,34,C-FKPT,Airbus A320-211,0324,28,Air Canada
+33,35,C-FLSS,Airbus A320-211,0284,28,Air Canada
+34,36,C-FLSU,Airbus A320-211,0309,28,Air Canada
+35,37,C-FMSX,Airbus A320-211,0378,27,Air Canada
+36,38,C-FNVU,Airbus A320-211,0403,27,Air Canada
+37,39,C-FNVV,Airbus A320-211,0404,27,Air Canada
+38,40,C-FPDN,Airbus A320-211,0341,27,Air Canada
+39,41,C-FPWD,Airbus A320-211,0231,28,Air Canada
+40,42,C-FTJO,Airbus A320-211,0183,29,Air Canada
+41,43,C-FTJQ,Airbus A320-211,0242,28,Air Canada
+42,44,C-FTJR,Airbus A320-211,0248,28,Air Canada
+43,45,C-FTJS,Airbus A320-211,0253,28,Air Canada
+44,46,C-FXCD,Airbus A320-214,2018,16,Air Canada
+45,47,C-FZQS,Airbus A320-214,2145,16,Air Canada
+46,48,C-FZUB,Airbus A320-214,1940,17,Air Canada
+47,49,C-GJVT,Airbus A320-214,1719,18,Air Canada
+48,50,C-GKOD,Airbus A320-214,1864,17,Air Canada
+49,51,C-GKOE,Airbus A320-214,1874,17,Air Canada
+50,52,C-GPWG,Airbus A320-211,0174,29,Air Canada
+51,53,C-GQCA,Airbus A320-211,0210,28,Air Canada
+52,55,C-FGKN,Airbus A321-211,3051,13,Air Canada
+53,56,C-FGKP,Airbus A321-211,3884,10,Air Canada
+54,57,C-FGKZ,Airbus A321-211,3401,12,Air Canada
+55,58,C-FJNX,Airbus A321-211,1691,18,Air Canada
+56,59,C-FLKX,Airbus A321-211,1299,19,Air Canada
+57,60,C-GITU,Airbus A321-211,1602,18,Air Canada
+58,61,C-GITY,Airbus A321-211,1611,18,Air Canada
+59,62,C-GIUB,Airbus A321-211,1623,18,Air Canada
+60,63,C-GIUE,Airbus A321-211,1632,18,Air Canada
+61,64,C-GIUF,Airbus A321-211,1638,18,Air Canada
+62,65,C-GJVX,Airbus A321-211,1726,18,Air Canada
+63,66,C-GJWD,Airbus A321-211,1748,17,Air Canada
+64,67,C-GJWI,Airbus A321-211,1772,17,Air Canada
+65,68,C-GJWN,Airbus A321-211,1783,17,Air Canada
+66,69,C-GJWO,Airbus A321-211,1811,17,Air Canada
+67,71,C-GEFA,Airbus A330-343,0997,11,Air Canada
+68,72,C-GEGC,Airbus A330-343,1006,11,Air Canada
+69,73,C-GEGI,Airbus A330-343,1012,10,Air Canada
+70,74,C-GEGP,Airbus A330-343,1015,10,Air Canada
+71,75,C-GFAF,Airbus A330-343,0277,20,Air Canada
+72,76,C-GFAH,Airbus A330-343,0279,20,Air Canada
+73,77,C-GFAJ,Airbus A330-343,0284,20,Air Canada
+74,78,C-GFUR,Airbus A330-343,0344,19,Air Canada
+75,79,C-GHKR,Airbus A330-343,0400,19,Air Canada
+76,80,C-GHKW,Airbus A330-343,0408,18,Air Canada
+77,81,C-GHKX,Airbus A330-343,0412,18,Air Canada
+78,82,C-GHLM,Airbus A330-343,0419,18,Air Canada
+79,83,C-GKUG,Airbus A330-343,1149,9,Air Canada
+80,84,C-GKUH,Airbus A330-343,1156,9,Air Canada
+81,85,C-GOFW,Airbus A330-343,1485,6,Air Canada
+82,87,C-FSCY,Boeing 737 MAX 8,61208,2,Air Canada
+83,88,C-FSDB,Boeing 737 MAX 8,61210,2,Air Canada
+84,89,C-FSDQ,Boeing 737 MAX 8,61209,2,Air Canada
+85,90,C-FSDW,Boeing 737 MAX 8,61212,2,Air Canada
+86,91,C-FSEQ,Boeing 737 MAX 8,61211,2,Air Canada
+87,92,C-FSES,Boeing 737 MAX 8,61213,2,Air Canada
+88,93,C-FSIL,Boeing 737 MAX 8,61214,2,Air Canada
+89,94,C-FSIP,Boeing 737 MAX 8,61215,2,Air Canada
+90,95,C-FSIQ,Boeing 737 MAX 8,61216,2,Air Canada
+91,96,C-FSJH,Boeing 737 MAX 8,61218,2,Air Canada
+92,97,C-FSJJ,Boeing 737 MAX 8,61217,1,Air Canada
+93,98,C-FSKZ,Boeing 737 MAX 8,61219,1,Air Canada
+94,99,C-FSLU,Boeing 737 MAX 8,61221,1,Air Canada
+95,100,C-FSNQ,Boeing 737 MAX 8,61222,1,Air Canada
+96,101,C-FSNU,Boeing 737 MAX 8,61220,1,Air Canada
+97,102,C-FSOC,Boeing 737 MAX 8,61224,1,Air Canada
+98,103,C-FSOI,Boeing 737 MAX 8,61223,1,Air Canada
+99,104,C-FTJV,Boeing 737 MAX 8,61207,2,Air Canada
+100,105,C-GEHI,Boeing 737 MAX 8,61225,1,Air Canada
+101,106,C-GEHQ,Boeing 737 MAX 8,61226,1,Air Canada
+102,107,C-GEHV,Boeing 737 MAX 8,61227,1,Air Canada
+103,108,C-GEHY,Boeing 737 MAX 8,61228,1,Air Canada
+104,109,C-GEIV,Boeing 737 MAX 8,61229,1,Air Canada
+105,110,C-GEJL,Boeing 737 MAX 8,61230,1,Air Canada
+106,111,C-GEJN,Boeing 737 MAX 8,61233,1,Air Canada
+107,112,C-GEKH,Boeing 737 MAX 8,61231,1,Air Canada
+108,113,C-GEKX,Boeing 737 MAX 8,61232,1,Air Canada
+109,114,C-GEKZ,Boeing 737 MAX 8,61236,1,Air Canada
+110,115,C-GELJ,Boeing 737 MAX 8,61234,1,Air Canada
+111,116,C-GELQ,Boeing 737 MAX 8,61235,Brand,Air Canada
+112,117,C-GELU,Boeing 737 MAX 8,61239,Brand,Air Canada
+113,118,C-GEMV,Boeing 737 MAX 8,61238,Brand,Air Canada
+114,119,C-GEOJ,Boeing 737 MAX 8,61237,Brand,Air Canada
+115,120,C-GEPB,Boeing 737 MAX 8,61240,Brand,Air Canada
+116,121,C-GEPF,Boeing 737 MAX 8,61242,Brand,Air Canada
+117,123,C-FCAF,Boeing 767-375(ER),24084,31,Air Canada
+118,124,C-FOCA,Boeing 767-375(ER),24575,29,Air Canada
+119,125,C-FPCA,Boeing 767-375(ER),24306,31,Air Canada
+120,126,C-FTCA,Boeing 767-375(ER),24307,31,Air Canada
+121,127,C-GHOZ,Boeing 767-375(ER),24087,31,Air Canada
+122,128,C-GLCA,Boeing 767-375(ER),25120,29,Air Canada
+123,130,C-FIUA,Boeing 777-233(LR),35239,12,Air Canada
+124,131,C-FIUF,Boeing 777-233(LR),35243,12,Air Canada
+125,132,C-FIUJ,Boeing 777-233(LR),35244,12,Air Canada
+126,133,C-FIVK,Boeing 777-233(LR),35245,12,Air Canada
+127,134,C-FNND,Boeing 777-233(LR),35246,12,Air Canada
+128,135,C-FNNH,Boeing 777-233(LR),35247,12,Air Canada
+129,137,C-FITL,Boeing 777-333(ER),35256,13,Air Canada
+130,138,C-FITU,Boeing 777-333(ER),35254,12,Air Canada
+131,139,C-FITW,Boeing 777-333(ER),35298,12,Air Canada
+132,140,C-FIUL,Boeing 777-333(ER),35255,12,Air Canada
+133,141,C-FIUR,Boeing 777-333(ER),35242,12,Air Canada
+134,142,C-FIUV,Boeing 777-333(ER),35248,12,Air Canada
+135,143,C-FIUW,Boeing 777-333(ER),35249,12,Air Canada
+136,144,C-FIVM,Boeing 777-333(ER),35249,11,Air Canada
+137,145,C-FIVQ,Boeing 777-333(ER),35240,11,Air Canada
+138,146,C-FIVR,Boeing 777-333(ER),35241,11,Air Canada
+139,147,C-FIVS,Boeing 777-333(ER),35784,10,Air Canada
+140,148,C-FIVW,Boeing 777-333(ER),42218,6,Air Canada
+141,149,C-FIVX,Boeing 777-333(ER),41525,6,Air Canada
+142,150,C-FJZS,Boeing 777-333(ER),62400,4,Air Canada
+143,151,C-FKAU,Boeing 777-333(ER),62401,3,Air Canada
+144,152,C-FNNQ,Boeing 777-333(ER),43251,6,Air Canada
+145,153,C-FNNU,Boeing 777-333(ER),43249,6,Air Canada
+146,154,C-FNNW,Boeing 777-333(ER),43250,6,Air Canada
+147,155,C-FRAM,Boeing 777-333(ER),35250,11,Air Canada
+148,157,C-GHPQ,Boeing 787-8 Dreamliner,35257,5,Air Canada
+149,158,C-GHPT,Boeing 787-8 Dreamliner,35258,5,Air Canada
+150,159,C-GHPU,Boeing 787-8 Dreamliner,35259,5,Air Canada
+151,160,C-GHPV,Boeing 787-8 Dreamliner,35260,5,Air Canada
+152,161,C-GHPX,Boeing 787-8 Dreamliner,35261,5,Air Canada
+153,162,C-GHPY,Boeing 787-8 Dreamliner,35262,5,Air Canada
+154,163,C-GHQQ,Boeing 787-8 Dreamliner,35263,5,Air Canada
+155,164,C-GHQY,Boeing 787-8 Dreamliner,35264,5,Air Canada
+156,166,C-FGDT,Boeing 787-9 Dreamliner,37171,4,Air Canada
+157,167,C-FGDX,Boeing 787-9 Dreamliner,35269,4,Air Canada
+158,168,C-FGDZ,Boeing 787-9 Dreamliner,37173,4,Air Canada
+159,169,C-FGEI,Boeing 787-9 Dreamliner,37174,4,Air Canada
+160,170,C-FGEO,Boeing 787-9 Dreamliner,37180,4,Air Canada
+161,171,C-FGFZ,Boeing 787-9 Dreamliner,37172,4,Air Canada
+162,172,C-FGHZ,Boeing 787-9 Dreamliner,37169,4,Air Canada
+163,173,C-FKSV,Boeing 787-9 Dreamliner,37170,3,Air Canada
+164,174,C-FNOE,Boeing 787-9 Dreamliner,35265,4,Air Canada
+165,175,C-FNOG,Boeing 787-9 Dreamliner,35266,4,Air Canada
+166,176,C-FNOH,Boeing 787-9 Dreamliner,35267,4,Air Canada
+167,177,C-FNOI,Boeing 787-9 Dreamliner,35268,4,Air Canada
+168,178,C-FPQB,Boeing 787-9 Dreamliner,35270,3,Air Canada
+169,179,C-FRSA,Boeing 787-9 Dreamliner,37175,3,Air Canada
+170,180,C-FRSE,Boeing 787-9 Dreamliner,37181,3,Air Canada
+171,181,C-FRSI,Boeing 787-9 Dreamliner,37176,3,Air Canada
+172,182,C-FRSO,Boeing 787-9 Dreamliner,37177,3,Air Canada
+173,183,C-FRSR,Boeing 787-9 Dreamliner,37178,2,Air Canada
+174,184,C-FRTG,Boeing 787-9 Dreamliner,37184,2,Air Canada
+175,185,C-FRTU,Boeing 787-9 Dreamliner,37183,2,Air Canada
+176,186,C-FRTW,Boeing 787-9 Dreamliner,37179,2,Air Canada
+177,187,C-FSBV,Boeing 787-9 Dreamliner,37182,2,Air Canada
+178,188,C-FVLQ,Boeing 787-9 Dreamliner,38357,2,Air Canada
+179,189,C-FVLU,Boeing 787-9 Dreamliner,38360,2,Air Canada
+180,190,C-FVLX,Boeing 787-9 Dreamliner,38356,2,Air Canada
+181,191,C-FVLZ,Boeing 787-9 Dreamliner,38358,2,Air Canada
+182,192,C-FVNB,Boeing 787-9 Dreamliner,38359,1,Air Canada
+183,193,C-FVND,Boeing 787-9 Dreamliner,38361,1,Air Canada
+184,194,C-FVNF,Boeing 787-9 Dreamliner,38362,Brand,Air Canada
+185,196,C-GJXE,Airbus A220-300,55076,Brand,Air Canada
+186,197,C-GJXN,Airbus A220-300,55078,Brand,Air Canada
+187,198,C-GJXV,Airbus A220-300,55079,Brand,Air Canada
+188,199,C-GROV,Airbus A220-300,55067,Brand,Air Canada
+189,201,C-FWJF,Bombardier CRJ-100ER,7095,24,Air Canada
+190,202,C-FWJI,Bombardier CRJ-100ER,7096,24,Air Canada
+191,203,C-FWRR,Bombardier CRJ-100ER,7107,24,Air Canada
+192,204,C-FWRS,Bombardier CRJ-100ER,7112,24,Air Canada
+193,206,C-FDJA,Bombardier CRJ-200ER,7979,15,Air Canada
+194,207,C-FEJA,Bombardier CRJ-200ER,7983,15,Air Canada
+195,208,C-FFJA,Bombardier CRJ-200ER,7985,15,Air Canada
+196,209,C-FIJA,Bombardier CRJ-200ER,7987,15,Air Canada
+197,210,C-FZJA,Bombardier CRJ-200ER,7988,15,Air Canada
+198,211,C-GGJA,Bombardier CRJ-200ER,8002,15,Air Canada
+199,212,C-GJZZ,Bombardier CRJ-200ER,7978,15,Air Canada
+200,213,C-GKEJ,Bombardier CRJ-200LR,7269,21,Air Canada
+201,214,C-GKEK,Bombardier CRJ-200LR,7270,21,Air Canada
+202,215,C-GKEM,Bombardier CRJ-200LR,7277,21,Air Canada
+203,216,C-GKEP,Bombardier CRJ-200LR,7303,21,Air Canada
+204,217,C-GKEZ,Bombardier CRJ-200LR,7327,20,Air Canada
+205,218,C-GKFR,Bombardier CRJ-200LR,7330,20,Air Canada
+206,219,C-GKGC,Bombardier CRJ-200LR,7334,20,Air Canada
+207,220,C-GMJA,Bombardier CRJ-200ER,8003,15,Air Canada
+208,221,C-GNJA,Bombardier CRJ-200ER,8004,15,Air Canada
+209,222,C-GOJA,Bombardier CRJ-200ER,8009,15,Air Canada
+210,223,C-GQJA,Bombardier CRJ-200ER,7963,15,Air Canada
+211,224,C-GTJA,Bombardier CRJ-200ER,7966,15,Air Canada
+212,225,C-GUJA,Bombardier CRJ-200ER,8011,15,Air Canada
+213,226,C-GXJA,Bombardier CRJ-200ER,8017,15,Air Canada
+214,227,C-GZJA,Bombardier CRJ-200ER,8018,15,Air Canada
+215,229,C-FBJZ,Bombardier CRJ-900LR,15037,14,Air Canada
+216,230,C-FCJZ,Bombardier CRJ-900LR,15040,14,Air Canada
+217,231,C-FDJZ,Bombardier CRJ-900LR,15041,14,Air Canada
+218,232,C-FIJZ,Bombardier CRJ-900LR,15082,14,Air Canada
+219,233,C-FJJZ,Bombardier CRJ-900LR,15043,14,Air Canada
+220,234,C-FJZD,Bombardier CRJ-900LR,15420,3,Air Canada
+221,235,C-FJZL,Bombardier CRJ-900LR,15421,3,Air Canada
+222,236,C-FKJZ,Bombardier CRJ-900LR,15044,14,Air Canada
+223,237,C-FLJZ,Bombardier CRJ-900LR,15045,14,Air Canada
+224,238,C-FNJZ,Bombardier CRJ-900LR,15046,14,Air Canada
+225,239,C-FOJZ,Bombardier CRJ-900LR,15098,14,Air Canada
+226,240,C-FRJA,Bombardier CRJ-900LR,15100,13,Air Canada
+227,241,C-FTJZ,Bombardier CRJ-900LR,15047,14,Air Canada
+228,242,C-FUJZ,Bombardier CRJ-900LR,15048,14,Air Canada
+229,243,C-GDJZ,Bombardier CRJ-900LR,15049,14,Air Canada
+230,244,C-GFJZ,Bombardier CRJ-900LR,15050,14,Air Canada
+231,245,C-GJAN,Bombardier CRJ-900LR,15101,13,Air Canada
+232,246,C-GJAZ,Bombardier CRJ-900LR,15036,14,Air Canada
+233,247,C-GJZS,Bombardier CRJ-900LR,15422,3,Air Canada
+234,248,C-GJZT,Bombardier CRJ-900LR,15423,3,Air Canada
+235,249,C-GJZV,Bombardier CRJ-900LR,15424,3,Air Canada
+236,250,C-GLJZ,Bombardier CRJ-900LR,15051,14,Air Canada
+237,251,C-GNJZ,Bombardier CRJ-900LR,15052,14,Air Canada
+238,252,C-GOJZ,Bombardier CRJ-900LR,15053,14,Air Canada
+239,253,C-GPJZ,Bombardier CRJ-900LR,15055,14,Air Canada
+240,255,C-GKON,De Havilland Canada Dash 8-100,130,31,Air Canada
+241,256,C-GONY,De Havilland Canada Dash 8-100,115,31,Air Canada
+242,258,C-FACF,De Havilland Canada Dash 8-300,259,29,Air Canada
+243,259,C-FACT,De Havilland Canada Dash 8-300,262,29,Air Canada
+244,260,C-FACV,De Havilland Canada Dash 8-300,278,28,Air Canada
+245,261,C-FADF,De Havilland Canada Dash 8-300,272,28,Air Canada
+246,262,C-FJFM,De Havilland Canada Dash 8-300,240,29,Air Canada
+247,263,C-FJVV,De Havilland Canada Dash 8-300,271,28,Air Canada
+248,264,C-FMDW,De Havilland Canada Dash 8-300,269,29,Air Canada
+249,265,C-FRUZ,De Havilland Canada Dash 8-300,293,28,Air Canada
+250,266,C-FSOU,De Havilland Canada Dash 8-300,342,27,Air Canada
+251,267,C-FTAK,De Havilland Canada Dash 8-300,246,29,Air Canada
+252,268,C-GABO,De Havilland Canada Dash 8-300,248,29,Air Canada
+253,269,C-GABP,De Havilland Canada Dash 8-300,257,29,Air Canada
+254,270,C-GETA,De Havilland Canada Dash 8-300,186,30,Air Canada
+255,271,C-GEWQ,De Havilland Canada Dash 8-300,202,30,Air Canada
+256,272,C-GHTA,De Havilland Canada Dash 8-300,198,30,Air Canada
+257,273,C-GKTA,De Havilland Canada Dash 8-300,124,31,Air Canada
+258,274,C-GLTA,De Havilland Canada Dash 8-300,154,30,Air Canada
+259,275,C-GMON,De Havilland Canada Dash 8-300,131,30,Air Canada
+260,276,C-GNON,De Havilland Canada Dash 8-300,137,30,Air Canada
+261,277,C-GTAG,De Havilland Canada Dash 8-300,200,30,Air Canada
+262,278,C-GTAQ,De Havilland Canada Dash 8-300,180,30,Air Canada
+263,279,C-GTAT,De Havilland Canada Dash 8-300,188,30,Air Canada
+264,280,C-GUON,De Havilland Canada Dash 8-300,143,30,Air Canada
+265,281,C-GVON,De Havilland Canada Dash 8-300,149,30,Air Canada
+266,283,C-FSRJ,De Havilland Canada Dash 8-400,4165,12,Air Canada
+267,284,C-FSRN,De Havilland Canada Dash 8-400,4170,12,Air Canada
+268,285,C-FSRW,De Havilland Canada Dash 8-400,4172,12,Air Canada
+269,286,C-FSRY,De Havilland Canada Dash 8-400,4174,12,Air Canada
+270,287,C-FSRZ,De Havilland Canada Dash 8-400,4176,12,Air Canada
+271,288,C-GBJZ,De Havilland Canada Dash 8-400,4503,4,Air Canada
+272,289,C-GGAH,De Havilland Canada Dash 8-400,4432,7,Air Canada
+273,290,C-GGBF,De Havilland Canada Dash 8-400,4433,7,Air Canada
+274,291,C-GGCI,De Havilland Canada Dash 8-400,4434,7,Air Canada
+275,292,C-GGDU,De Havilland Canada Dash 8-400,4435,7,Air Canada
+276,293,C-GGFJ,De Havilland Canada Dash 8-400,4436,7,Air Canada
+277,294,C-GGFP,De Havilland Canada Dash 8-400,4437,7,Air Canada
+278,295,C-GGMI,De Havilland Canada Dash 8-400,4413,8,Air Canada
+279,296,C-GGMN,De Havilland Canada Dash 8-400,4405,8,Air Canada
+280,297,C-GGMQ,De Havilland Canada Dash 8-400,4403,8,Air Canada
+281,298,C-GGMU,De Havilland Canada Dash 8-400,4397,8,Air Canada
+282,299,C-GGMZ,De Havilland Canada Dash 8-400,4399,8,Air Canada
+283,300,C-GGND,De Havilland Canada Dash 8-400,4394,8,Air Canada
+284,301,C-GGNF,De Havilland Canada Dash 8-400,4393,8,Air Canada
+285,302,C-GGNW,De Havilland Canada Dash 8-400,4388,8,Air Canada
+286,303,C-GGNY,De Havilland Canada Dash 8-400,4386,8,Air Canada
+287,304,C-GGNZ,De Havilland Canada Dash 8-400,4384,8,Air Canada
+288,305,C-GGOF,De Havilland Canada Dash 8-400,4383,8,Air Canada
+289,306,C-GGOI,De Havilland Canada Dash 8-400,4381,8,Air Canada
+290,307,C-GGOK,De Havilland Canada Dash 8-400,4372,8,Air Canada
+291,308,C-GGOY,De Havilland Canada Dash 8-400,4365,9,Air Canada
+292,309,C-GIJZ,De Havilland Canada Dash 8-400,4509,4,Air Canada
+293,310,C-GJZA,De Havilland Canada Dash 8-400,4531,4,Air Canada
+294,311,C-GJZC,De Havilland Canada Dash 8-400,4181,12,Air Canada
+295,312,C-GJZD,De Havilland Canada Dash 8-400,4533,4,Air Canada
+296,313,C-GJZF,De Havilland Canada Dash 8-400,4186,12,Air Canada
+297,314,C-GJZG,De Havilland Canada Dash 8-400,4507,4,Air Canada
+298,315,C-GJZH,De Havilland Canada Dash 8-400,4168,12,Air Canada
+299,316,C-GJZK,De Havilland Canada Dash 8-400,4499,4,Air Canada
+300,317,C-GJZN,De Havilland Canada Dash 8-400,4341,9,Air Canada
+301,318,C-GJZR,De Havilland Canada Dash 8-400,4182,12,Air Canada
+302,319,C-GJZX,De Havilland Canada Dash 8-400,4508,4,Air Canada
+303,320,C-GJZY,De Havilland Canada Dash 8-400,4529,3,Air Canada
+304,321,C-GKUK,De Havilland Canada Dash 8-400,4369,8,Air Canada
+305,322,C-GSJZ,De Havilland Canada Dash 8-400,4510,4,Air Canada
+306,323,C-GUJZ,De Havilland Canada Dash 8-400,4516,4,Air Canada
+307,324,C-GVJZ,De Havilland Canada Dash 8-400,4520,4,Air Canada
+308,325,C-GXJZ,De Havilland Canada Dash 8-400,4523,3,Air Canada
+309,326,C-GYJZ,De Havilland Canada Dash 8-400,4524,4,Air Canada
+310,328,C-FHJU,Embraer E190AR,19000044,13,Air Canada
+311,329,C-FHKA,Embraer E190AR,19000046,13,Air Canada
+312,330,C-FHKI,Embraer E190AR,19000052,13,Air Canada
+313,331,C-FHOS,Embraer E190AR,19000101,12,Air Canada
+314,332,C-FHOY,Embraer E190AR,19000105,12,Air Canada
+315,333,C-FLWE,Embraer E190AR,19000092,12,Air Canada
+316,334,C-FLWH,Embraer E190AR,19000094,12,Air Canada
+317,335,C-FLWK,Embraer E190AR,19000096,12,Air Canada
+318,336,C-FMYV,Embraer E190AR,19000108,12,Air Canada
+319,337,C-FMZD,Embraer E190AR,19000115,12,Air Canada
+320,338,C-FMZR,Embraer E190AR,19000116,12,Air Canada
+321,339,C-FMZU,Embraer E190AR,19000118,12,Air Canada
+322,340,C-FMZW,Embraer E190AR,19000124,12,Air Canada
+323,341,C-FNAI,Embraer E190AR,19000132,12,Air Canada
+324,342,C-FNAJ,Embraer E190AR,19000134,12,Air Canada
+325,343,C-FNAN,Embraer E190AR,19000136,12,Air Canada
+326,344,C-FNAP,Embraer E190AR,19000142,12,Air Canada
+327,345,C-FNAW,Embraer E190AR,19000149,12,Air Canada
+328,347,C-FEIQ,Embraer E175SU,17000083,14,Air Canada
+329,348,C-FEIX,Embraer E175SU,17000085,14,Air Canada
+330,349,C-FEJB,Embraer E175SU,17000086,14,Air Canada
+331,350,C-FEJC,Embraer E175SU,17000089,14,Air Canada
+332,351,C-FEJD,Embraer E175SU,17000090,14,Air Canada
+333,352,C-FEJF,Embraer E175SU,17000091,14,Air Canada
+334,353,C-FEJL,Embraer E175SU,17000095,14,Air Canada
+335,354,C-FEJP,Embraer E175SU,17000096,14,Air Canada
+336,355,C-FEJY,Embraer E175SU,17000097,14,Air Canada
+337,356,C-FEKD,Embraer E175SU,17000101,14,Air Canada
+338,357,C-FEKH,Embraer E175SU,17000102,14,Air Canada
+339,358,C-FEKI,Embraer E175SU,17000103,14,Air Canada
+340,359,C-FEKJ,Embraer E175SU,17000109,14,Air Canada
+341,360,C-FEKS,Embraer E175SU,17000110,14,Air Canada
+342,361,C-FFYG,Embraer E175SU,17000116,14,Air Canada
+343,362,C-FJBO,Embraer E175LR,17000277,11,Air Canada
+344,363,C-FRQK,Embraer E175LR,17000126,14,Air Canada
+345,364,C-FRQM,Embraer E175LR,17000137,14,Air Canada
+346,365,C-FRQN,Embraer E175LR,17000147,14,Air Canada
+347,366,C-FRQP,Embraer E175LR,17000153,13,Air Canada
+348,367,C-FRQW,Embraer E175LR,17000154,14,Air Canada
+349,368,C-FUJA,Embraer E175LR,17000272,11,Air Canada
+350,369,C-FUJE,Embraer E175LR,17000291,10,Air Canada
+351,370,C-FXJC,Embraer E175LR,17000287,10,Air Canada
+352,371,C-FXJF,Embraer E175LR,17000309,9,Air Canada
+353,373,C-FYIY,Airbus A319-114,0634,23,Air Canada Rouge
+354,374,C-FYJE,Airbus A319-114,0656,23,Air Canada Rouge
+355,375,C-FYJG,Airbus A319-114,0670,23,Air Canada Rouge
+356,376,C-FYJH,Airbus A319-114,0672,23,Air Canada Rouge
+357,377,C-FYJP,Airbus A319-114,0688,22,Air Canada Rouge
+358,378,C-FYKW,Airbus A319-114,0695,22,Air Canada Rouge
+359,379,C-FYNS,Airbus A319-114,0572,24,Air Canada Rouge
+360,380,C-FZUG,Airbus A319-114,0697,22,Air Canada Rouge
+361,381,C-GARJ,Airbus A319-114,0752,22,Air Canada Rouge
+362,382,C-GARO,Airbus A319-114,0757,22,Air Canada Rouge
+363,383,C-GBHO,Airbus A319-114,0779,22,Air Canada Rouge
+364,384,C-GBHR,Airbus A319-114,0785,22,Air Canada Rouge
+365,385,C-GBHY,Airbus A319-114,0800,22,Air Canada Rouge
+366,386,C-GBHZ,Airbus A319-114,0813,22,Air Canada Rouge
+367,387,C-GBIJ,Airbus A319-114,0829,21,Air Canada Rouge
+368,388,C-GBIM,Airbus A319-114,0840,21,Air Canada Rouge
+369,389,C-GBIN,Airbus A319-114,0845,21,Air Canada Rouge
+370,390,C-GITP,Airbus A319-112,1562,18,Air Canada Rouge
+371,391,C-GITR,Airbus A319-112,1577,18,Air Canada Rouge
+372,392,C-GJVY,Airbus A319-112,1742,17,Air Canada Rouge
+373,393,C-GKOB,Airbus A319-112,1853,17,Air Canada Rouge
+374,394,C-GSJB,Airbus A319-112,1673,18,Air Canada Rouge
+375,396,C-GFCH,Airbus A320-214,3160,12,Air Canada Rouge
+376,397,C-GFCI,Airbus A320-214,3286,12,Air Canada Rouge
+377,398,C-GFCP,Airbus A320-214,3123,13,Air Canada Rouge
+378,399,C-GFDU,Airbus A320-214,3149,12,Air Canada Rouge
+379,400,C-GFWX,Airbus A320-214,3304,12,Air Canada Rouge
+380,402,C-FJOK,Airbus A321-211,6844,4,Air Canada Rouge
+381,403,C-FJOU,Airbus A321-211,6873,4,Air Canada Rouge
+382,404,C-FJQD,Airbus A321-211,6884,4,Air Canada Rouge
+383,405,C-FJQH,Airbus A321-211,6905,4,Air Canada Rouge
+384,406,C-FJQL,Airbus A321-211,7117,3,Air Canada Rouge
+385,407,C-FYXF,Airbus A321-211,5038,8,Air Canada Rouge
+386,408,C-GHPD,Airbus A321-211,5681,6,Air Canada Rouge
+387,409,C-GHPJ,Airbus A321-211,5733,6,Air Canada Rouge
+388,410,C-GHQG,Airbus A321-211,6210,5,Air Canada Rouge
+389,411,C-GHQI,Airbus A321-211,6232,5,Air Canada Rouge
+390,412,C-GJTH,Airbus A321-211,7433,3,Air Canada Rouge
+391,413,C-GJTX,Airbus A321-211,7650,2,Air Canada Rouge
+392,414,C-GKFA,Airbus A321-211,8104,2,Air Canada Rouge
+393,415,C-GKFB,Airbus A321-211,8232,2,Air Canada Rouge
+394,417,C-FIYA,Boeing 767-33A(ER),33421,17,Air Canada Rouge
+395,418,C-FIYE,Boeing 767-33A(ER),33422,17,Air Canada Rouge
+396,419,C-FJZK,Boeing 767-3Q8(ER),29386,19,Air Canada Rouge
+397,420,C-FMLV,Boeing 767-316(ER),26327,23,Air Canada Rouge
+398,421,C-FMLZ,Boeing 767-316(ER),27597,24,Air Canada Rouge
+399,422,C-FMWP,Boeing 767-333(ER),25583,26,Air Canada Rouge
+400,423,C-FMWQ,Boeing 767-333(ER),25584,24,Air Canada Rouge
+401,424,C-FMWU,Boeing 767-333(ER),25585,24,Air Canada Rouge
+402,425,C-FMWV,Boeing 767-333(ER),25586,24,Air Canada Rouge
+403,426,C-FMWY,Boeing 767-333(ER),25587,24,Air Canada Rouge
+404,427,C-FMXC,Boeing 767-333(ER),25588,24,Air Canada Rouge
+405,428,C-FXCA,Boeing 767-375(ER),24574,30,Air Canada Rouge
+406,429,C-GBZR,Boeing 767-38E(ER),25404,28,Air Canada Rouge
+407,430,C-GDUZ,Boeing 767-38E(ER),25347,28,Air Canada Rouge
+408,431,C-GEOQ,Boeing 767-375(ER),30112,20,Air Canada Rouge
+409,432,C-GEOU,Boeing 767-375(ER),30108,20,Air Canada Rouge
+410,433,C-GHLA,Boeing 767-35H(ER),26387,27,Air Canada Rouge
+411,434,C-GHLK,Boeing 767-35H(ER),26388,27,Air Canada Rouge
+412,435,C-GHLQ,Boeing 767-333(ER),30846,19,Air Canada Rouge
+413,436,C-GHLT,Boeing 767-333(ER),30850,18,Air Canada Rouge
+414,437,C-GHLU,Boeing 767-333(ER),30851,18,Air Canada Rouge
+415,438,C-GHLV,Boeing 767-333(ER),30852,18,Air Canada Rouge
+416,439,C-GHPE,Boeing 767-33A(ER),33423,17,Air Canada Rouge
+417,440,C-GHPN,Boeing 767-33A(ER),33424,17,Air Canada Rouge
+418,441,C-GSCA,Boeing 767-375(ER),25121,28,Air Canada Rouge
+419,443,C-FLIY,Hawker HS-748 Series 2A,1723,45,Air Creebec
+420,444,C-FPJR,Hawker HS-748 Series 2A,1725,45,Air Creebec
+421,446,C-FEYP,Beech A100 King Air,B-206,45,Air Creebec
+422,447,C-FHGG,Beech A100 King Air,B-207,45,Air Creebec
+423,448,C-GIZX,Beech A100 King Air,B-172,47,Air Creebec
+424,450,C-FCJD,De Havilland Canada Dash 8-100,158,30,Air Creebec
+425,451,C-FCLS,De Havilland Canada Dash 8-100,249,29,Air Creebec
+426,452,C-FCSK,De Havilland Canada Dash 8-100,122,31,Air Creebec
+427,453,C-FCWP,De Havilland Canada Dash 8-100,111,31,Air Creebec
+428,454,C-FDWO,De Havilland Canada Dash 8-100,277,28,Air Creebec
+429,455,C-FLSX,De Havilland Canada Dash 8-100,285,28,Air Creebec
+430,456,C-FODL,De Havilland Canada Dash 8-100,294,28,Air Creebec
+431,457,C-GAIS,De Havilland Canada Dash 8-100,138,31,Air Creebec
+432,458,C-GJOP,De Havilland Canada Dash 8-100,121,31,Air Creebec
+433,459,C-GTCO,De Havilland Canada Dash 8-100,119,31,Air Creebec
+434,460,C-GUXF,De Havilland Canada Dash 8-100,173,30,Air Creebec
+435,461,C-GXCN,De Havilland Canada Dash 8-100,345,27,Air Creebec
+436,462,C-GYWX,De Havilland Canada Dash 8-100,175,30,Air Creebec
+437,463,C-GZJC,De Havilland Canada Dash 8-100,060,33,Air Creebec
+438,465,C-FNXN,De Havilland Canada Dash 8-300,464,23,Air Creebec
+439,466,C-GZEW,De Havilland Canada Dash 8-300,393,25,Air Creebec
+440,468,C-GAAU,Beech 1900D,UE-232,24,Air Georgian
+441,469,C-GGGA,Beech 1900D,UE-291,23,Air Georgian
+442,470,C-GHGA,Beech 1900D,UE-293,23,Air Georgian
+443,471,C-GMGA,Beech 1900D,UE-315,22,Air Georgian
+444,472,C-GORA,Beech 1900D,UE-326,22,Air Georgian
+445,473,C-GORC,Beech 1900D,UE-320,22,Air Georgian
+446,474,C-GORF,Beech 1900D,UE-330,22,Air Georgian
+447,475,C-GORN,Beech 1900D,UE-403,19,Air Georgian
+448,476,C-GVGA,Beech 1900D,UE-292,23,Air Georgian
+449,477,C-GWGA,Beech 1900D,UE-309,22,Air Georgian
+450,478,C-GZGA,Beech 1900D,UE-306,22,Air Georgian
+451,480,C-FGET,Hawker Siddeley HS 748 Series 2A,1724,45,Air Inuit
+452,481,C-GCUK,Hawker Siddeley HS 748 Series 2A,1762,42,Air Inuit
+453,482,C-GEGJ,Hawker Siddeley HS 748 Series 2A,1711,47,Air Inuit
+454,484,C-FDTC,Beech 300 Super King Air 350,FL-234,21,Air Inuit
+455,485,C-GRJZ,Beech 300 Super King Air 350,FL-285,20,Air Inuit
+456,487,C-GAIG,Boeing 737-2S2C(A),21928,40,Air Inuit
+457,488,C-GMAI,Boeing 737-2Q2C(A),21467,42,Air Inuit
+458,489,C-GNDU,Boeing 737-242C(A),22877,37,Air Inuit
+459,490,C-GSPW,Boeing 737-275C(A),22618,38,Air Inuit
+460,492,C-GFFN,Boeing 737-33A(QC),25402,28,Air Inuit
+461,494,C-FAIO,Beech A100 King Air,B-132,48,Air Inuit
+462,495,C-FAIP,Beech A100 King Air,B-193,46,Air Inuit
+463,496,C-GAIK,Beech A100 King Air,B-104,49,Air Inuit
+464,498,C-FDAO,De Havilland Canada Dash 8-100,123,31,Air Inuit
+465,499,C-FDLG,De Havilland Canada Dash 8-100,155,31,Air Inuit
+466,501,C-FAID,De Havilland Canada Dash 8-300(F),400,25,Air Inuit
+467,502,C-FEAI,De Havilland Canada Dash 8-300,334,27,Air Inuit
+468,503,C-FIAI,De Havilland Canada Dash 8-300,485,22,Air Inuit
+469,504,C-FOAI,De Havilland Canada Dash 8-300,466,23,Air Inuit
+470,505,C-FYAI,De Havilland Canada Dash 8-300,420,24,Air Inuit
+471,506,C-GAIW,De Havilland Canada Dash 8-300(F),300,28,Air Inuit
+472,507,C-GIAB,De Havilland Canada Dash 8-300,296,28,Air Inuit
+473,508,C-GRAI,De Havilland Canada Dash 8-300,483,22,Air Inuit
+474,509,C-GUAI,De Havilland Canada Dash 8-300,423,24,Air Inuit
+475,510,C-GXAI,De Havilland Canada Dash 8-300,481,22,Air Inuit
+476,512,C-FAIY,De Havilland Canada DHC-6-300 Twin Otter,362,47,Air Inuit
+477,513,C-FJFR,De Havilland Canada DHC-6-300 Twin Otter,784,38,Air Inuit
+478,514,C-FTJJ,De Havilland Canada DHC-6-300 Twin Otter,325,49,Air Inuit
+479,515,C-GKCJ,De Havilland Canada DHC-6-300 Twin Otter,698,40,Air Inuit
+480,516,C-GMDC,De Havilland Canada DHC-6-300 Twin Otter,763,39,Air Inuit
+481,517,C-GNDO,De Havilland Canada DHC-6-300 Twin Otter,430,46,Air Inuit
+482,518,C-GTYX,De Havilland Canada DHC-6-300 Twin Otter,631,42,Air Inuit
+483,520,C-FVGF,ATR 42-300(QC),119,31,Air North
+484,521,C-FVGP,ATR 42-300(QC),143,30,Air North
+485,522,C-GVGX,ATR 42-320,264,28,Air North
+486,524,C-FANB,Boeing 737-48E,25764,27,Air North
+487,526,C-FANF,Boeing 737-55D,27417,27,Air North
+488,527,C-GANH,Boeing 737-505,27153,26,Air North
+489,528,C-GANJ,Boeing 737-548,26287,27,Air North
+490,529,C-GANU,Boeing 737-55D,27416,27,Air North
+491,531,C-GOIE,Airbus A321-271NX,8755,Brand,Air Transat
+492,532,C-GOIF,Airbus A321-271NX,8876,Brand,Air Transat
+493,533,C-GOIJ,Airbus A321-271NX,9278,Brand,Air Transat
+494,535,C-FTXQ,Airbus A321-211,5603,6,Air Transat
+495,536,C-FTXU,Airbus A321-211,6114,5,Air Transat
+496,537,C-FTXZ,Airbus A321-211,6548,5,Air Transat
+497,538,C-GEZD,Airbus A321-211,4099,10,Air Transat
+498,539,C-GEZJ,Airbus A321-211,4148,10,Air Transat
+499,540,C-GEZN,Airbus A321-211,4103,10,Air Transat
+500,541,C-GEZO,Airbus A321-211,4500,9,Air Transat
+501,542,C-GEZX,Airbus A321-211,7237,3,Air Transat
+502,543,C-GEZY,Airbus A321-211,2342,15,Air Transat
+503,544,C-GJLT,Airbus A321-211,2912,13,Air Transat
+504,545,C-GTCY,Airbus A321-211,5872,6,Air Transat
+505,546,C-GTZX,Airbus A321-211,6515,5,Air Transat
+506,548,C-GGTS,Airbus A330-243,0250,21,Air Transat
+507,549,C-GITS,Airbus A330-243,0271,21,Air Transat
+508,550,C-GJDA,Airbus A330-243,0248,21,Air Transat
+509,551,C-GPTS,Airbus A330-243,0480,17,Air Transat
+510,552,C-GTSI,Airbus A330-243,0427,18,Air Transat
+511,553,C-GTSJ,Airbus A330-243,0795,13,Air Transat
+512,554,C-GTSN,Airbus A330-243,0369,19,Air Transat
+513,555,C-GTSR,Airbus A330-243,0966,11,Air Transat
+514,556,C-GTSZ,Airbus A330-243,0971,11,Air Transat
+515,557,C-GUBC,Airbus A330-243,518,17,Air Transat
+516,558,C-GUBD,Airbus A330-243,536,16,Air Transat
+517,559,C-GUBF,Airbus A330-243,0314,20,Air Transat
+518,560,C-GUBH,Airbus A330-243,455,17,Air Transat
+519,561,C-GUBL,Airbus A330-243,0728,14,Air Transat
+520,562,C-GUBT,Airbus A330-243,0732,14,Air Transat
+521,563,C-GUFR,Airbus A330-243,0251,21,Air Transat
+522,565,C-GCTS,Airbus A330-342,0177,22,Air Transat
+523,566,C-GKTS,Airbus A330-342,0111,24,Air Transat
+524,567,C-GTSD,Airbus A330-343,0407,18,Air Transat
+525,568,C-GTSO,Airbus A330-342,0132,24,Air Transat
+526,570,C-GTQB,Boeing 737-8Q8,30696,14,Air Transat
+527,571,C-GTQC,Boeing 737-8Q8,29368,14,Air Transat
+528,572,C-GTQF,Boeing 737-8Q8,29369,13,Air Transat
+529,573,C-GTQG,Boeing 737-8Q8,30701,13,Air Transat
+530,574,C-GTQJ,Boeing 737-8Q8,30631,18,Air Transat
+531,576,C-FCIJ,ATR 42-320,139,30,Calm Air
+532,577,C-FJYV,ATR 42-300,216,29,Calm Air
+533,579,C-FCRZ,ATR 72-202(QC),0357,27,Calm Air
+534,580,C-FULE,ATR 72-202,0215,29,Calm Air
+535,582,C-GDPA,Boeing 737-2T2C(A),22056,40,Canadian North
+536,583,C-GOPW,Boeing 737-275C(A),22160,39,Canadian North
+537,585,C-FGCN,Boeing 737-36N,28590,21,Canadian North
+538,586,C-FKCN,Boeing 737-36N,28573,21,Canadian North
+539,587,C-GCNK,Boeing 737-36Q,29189,21,Canadian North
+540,588,C-GCNO,Boeing 737-36N,28596,20,Canadian North
+541,589,C-GCNU,Boeing 737-36Q,29140,22,Canadian North
+542,590,C-GCNW,Boeing 737-36Q,28760,22,Canadian North
+543,591,C-GCNZ,Boeing 737-36Q,28664,22,Canadian North
+544,592,C-GICN,Boeing 737-36Q,29405,21,Canadian North
+545,593,C-GPNL,Boeing 737-36N,28872,21,Canadian North
+546,594,C-GZCN,Boeing 737-36N,28594,21,Canadian North
+547,596,C-GECN,De Havilland Canada Dash 8-100,324,28,Canadian North
+548,597,C-GRGO,De Havilland Canada Dash 8-100,258,29,Canadian North
+549,599,C-GJCN,De Havilland Canada Dash 8-300,416,24,Canadian North
+550,601,C-FCMB,Beech 1900D,UE-278,23,Central Mountain 
+551,602,C-FCME,Beech 1900D,UE-277,23,Central Mountain 
+552,603,C-FCMN,Beech 1900D,UE-276,23,Central Mountain 
+553,604,C-FCMO,Beech 1900D,UE-281,23,Central Mountain 
+554,605,C-FCMP,Beech 1900D,UE-271,23,Central Mountain 
+555,606,C-FCMR,Beech 1900D,UE-283,23,Central Mountain 
+556,607,C-FCMU,Beech 1900D,UE-285,23,Central Mountain 
+557,608,C-FCMV,Beech 1900D,UE-272,23,Central Mountain 
+558,609,C-FDTR,Beech 1900D,UE-76,27,Central Mountain 
+559,610,C-GCMA,Beech 1900D,UE-289,23,Central Mountain 
+560,611,C-GCML,Beech 1900D,UE-243,24,Central Mountain 
+561,612,C-GCMY,Beech 1900D,UE-287,23,Central Mountain 
+562,613,C-GFSV,Beech 1900D,UE-346,22,Central Mountain 
+563,614,C-GGBY,Beech 1900D,UE-351,21,Central Mountain 
+564,616,C-FCMG,Dornier 328-110,3055,24,Central Mountain 
+565,617,C-FDYN,Dornier 328-110,3096,22,Central Mountain 
+566,618,C-FHVX,Dornier 328-110,3094,22,Central Mountain 
+567,620,C-FCJE,De Havilland Canada Dash 8-100,165,30,Central Mountain 
+568,621,C-FDNG,De Havilland Canada Dash 8-100,166,30,Central Mountain 
+569,622,C-FVRJ,De Havilland Canada Dash 8-100,321,28,Central Mountain 
+570,623,C-FYDH,De Havilland Canada Dash 8-100,083,32,Central Mountain 
+571,624,C-GMJJ,De Havilland Canada Dash 8-100,302,28,Central Mountain 
+572,625,C-GNCJ,De Havilland Canada Dash 8-100,329,27,Central Mountain 
+573,626,C-GYSJ,De Havilland Canada Dash 8-100,308,28,Central Mountain 
+574,628,C-FIDL,De Havilland Canada Dash 8-300,305,28,Central Mountain 
+575,630,C-FLEJ,Boeing 737-4B3,24751,28,Flair Airlines
+576,631,C-FLEN,Boeing 737-4K5,24769,30,Flair Airlines
+577,632,C-FLER,Boeing 737-46B,24573,30,Flair Airlines
+578,633,C-FLHE,Boeing 737-490,28889,22,Flair Airlines
+579,634,C-FLHJ,Boeing 737-4Q8,25104,26,Flair Airlines
+580,635,C-FLRS,Boeing 737-490,28888,22,Flair Airlines
+581,637,C-FFLA,Boeing 737-86N,36548,9,Flair Airlines
+582,638,C-FFLC,Boeing 737-86J,37758,9,Flair Airlines
+583,639,C-FFLJ,Boeing 737-86J,37760,9,Flair Airlines
+584,641,C-FLQY,De Havilland Canada Dash 8-400,4306,10,Porter
+585,642,C-GKQA,De Havilland Canada Dash 8-400,4357,9,Porter
+586,643,C-GKQB,De Havilland Canada Dash 8-400,4359,9,Porter
+587,644,C-GKQC,De Havilland Canada Dash 8-400,4360,9,Porter
+588,645,C-GKQD,De Havilland Canada Dash 8-400,4361,9,Porter
+589,646,C-GKQE,De Havilland Canada Dash 8-400,4390,8,Porter
+590,647,C-GKQF,De Havilland Canada Dash 8-400,4391,8,Porter
+591,648,C-GKQG,De Havilland Canada Dash 8-400,4544,3,Porter
+592,649,C-GKQH,De Havilland Canada Dash 8-400,4547,3,Porter
+593,650,C-GKQI,De Havilland Canada Dash 8-400,4551,3,Porter
+594,651,C-GLQB,De Havilland Canada Dash 8-400,4130,13,Porter
+595,652,C-GLQC,De Havilland Canada Dash 8-400,4134,13,Porter
+596,653,C-GLQD,De Havilland Canada Dash 8-400,4138,13,Porter
+597,654,C-GLQE,De Havilland Canada Dash 8-400,4140,13,Porter
+598,655,C-GLQF,De Havilland Canada Dash 8-400,4193,12,Porter
+599,656,C-GLQG,De Havilland Canada Dash 8-400,4194,12,Porter
+600,657,C-GLQH,De Havilland Canada Dash 8-400,4225,11,Porter
+601,658,C-GLQJ,De Havilland Canada Dash 8-400,4228,11,Porter
+602,659,C-GLQK,De Havilland Canada Dash 8-400,4247,11,Porter
+603,660,C-GLQL,De Havilland Canada Dash 8-400,4249,11,Porter
+604,661,C-GLQM,De Havilland Canada Dash 8-400,4252,11,Porter
+605,662,C-GLQN,De Havilland Canada Dash 8-400,4254,11,Porter
+606,663,C-GLQO,De Havilland Canada Dash 8-400,4270,10,Porter
+607,664,C-GLQP,De Havilland Canada Dash 8-400,4271,10,Porter
+608,665,C-GLQQ,De Havilland Canada Dash 8-400,4272,10,Porter
+609,666,C-GLQR,De Havilland Canada Dash 8-400,4278,10,Porter
+610,667,C-GLQV,De Havilland Canada Dash 8-400,4279,10,Porter
+611,668,C-GLQX,De Havilland Canada Dash 8-400,4282,10,Porter
+612,669,C-GLQZ,De Havilland Canada Dash 8-400,4308,10,Porter
+613,671,C-FCTK,Boeing 737 MAX 8,60520,1,WestJet
+614,672,C-FHCM,Boeing 737 MAX 8,43796,1,WestJet
+615,673,C-FNAX,Boeing 737 MAX 8,60511,2,WestJet
+616,674,C-FNWD,Boeing 737 MAX 8,60517,1,WestJet
+617,675,C-FRAX,Boeing 737 MAX 8,60510,2,WestJet
+618,676,C-FRYV,Boeing 737 MAX 8,60514,2,WestJet
+619,677,C-GAMQ,Boeing 737 MAX 8,60518,1,WestJet
+620,678,C-GCAM,Boeing 737 MAX 8,60515,2,WestJet
+621,679,C-GEHF,Boeing 737 MAX 8,60519,1,WestJet
+622,680,C-GRAX,Boeing 737 MAX 8,60513,2,WestJet
+623,681,C-GWLK,Boeing 737 MAX 8,62877,Brand,WestJet
+624,682,C-GXAX,Boeing 737 MAX 8,60512,2,WestJet
+625,683,C-GZSG,Boeing 737 MAX 8,60516,1,WestJet
+626,685,C-GBWS,Boeing 737-6CT,34288,13,WestJet
+627,686,C-GEWJ,Boeing 737-6CT,35571,13,WestJet
+628,687,C-GPWS,Boeing 737-6CT,34284,14,WestJet
+629,688,C-GWCQ,Boeing 737-6CT,35111,13,WestJet
+630,689,C-GWCT,Boeing 737-6CT,35112,13,WestJet
+631,690,C-GWCY,Boeing 737-6CT,35113,13,WestJet
+632,691,C-GWJU,Boeing 737-6CT,34289,13,WestJet
+633,692,C-GWSB,Boeing 737-6CT,34285,14,WestJet
+634,693,C-GWSI,Boeing 737-6CT,34286,14,WestJet
+635,694,C-GWSJ,Boeing 737-6CT,34621,14,WestJet
+636,695,C-GWSK,Boeing 737-6CT,34287,14,WestJet
+637,696,C-GWSL,Boeing 737-6CT,34633,14,WestJet
+638,697,C-GXWJ,Boeing 737-6CT,35570,13,WestJet
+639,699,C-FBWJ,Boeing 737-7CT,32767,15,WestJet
+640,700,C-FEWJ,Boeing 737-7CT,32769,15,WestJet
+641,701,C-FGWJ,Boeing 737-7CT,32764,15,WestJet
+642,702,C-FIBW,Boeing 737-7CT,37956,8,WestJet
+643,703,C-FIWS,Boeing 737-76N,32404,18,WestJet
+644,704,C-FJWS,Boeing 737-76N,28651,18,WestJet
+645,705,C-FKIW,Boeing 737-7CT,37955,9,WestJet
+646,706,C-FKWS,Boeing 737-76N,30134,18,WestJet
+647,707,C-FLWJ,Boeing 737-7CT,38096,9,WestJet
+648,708,C-FMWJ,Boeing 737-7CT,32771,14,WestJet
+649,709,C-FTWJ,Boeing 737-7CT,30713,13,WestJet
+650,710,C-FUWS,Boeing 737-7CT,32765,15,WestJet
+651,711,C-FWCN,Boeing 737-7CT,33698,16,WestJet
+652,712,C-FWSF,Boeing 737-7CT,32758,16,WestJet
+653,713,C-FWSI,Boeing 737-7CT,36691,10,WestJet
+654,714,C-FWSK,Boeing 737-7CT,36420,11,WestJet
+655,715,C-FWSO,Boeing 737-7CT,32759,16,WestJet
+656,716,C-FWSV,Boeing 737-7CT,32760,16,WestJet
+657,717,C-FWSX,Boeing 737-7CT,32761,15,WestJet
+658,718,C-FWSY,Boeing 737-7CT,32762,15,WestJet
+659,719,C-FXWJ,Boeing 737-7CT,32768,15,WestJet
+660,720,C-FZWS,Boeing 737-76N,32731,18,WestJet
+661,721,C-GCWJ,Boeing 737-7CT,33970,15,WestJet
+662,722,C-GGWJ,Boeing 737-7CT,35503,12,WestJet
+663,723,C-GLWS,Boeing 737-76N,32581,18,WestJet
+664,724,C-GMWJ,Boeing 737-7CT,35985,13,WestJet
+665,725,C-GQWJ,Boeing 737-7CT,35505,12,WestJet
+666,726,C-GRWS,Boeing 737-76N,32881,17,WestJet
+667,727,C-GSWJ,Boeing 737-7CT,37423,9,WestJet
+668,728,C-GTWS,Boeing 737-76N,32883,17,WestJet
+669,729,C-GUWJ,Boeing 737-7CT,36422,12,WestJet
+670,730,C-GUWS,Boeing 737-76N,33378,17,WestJet
+671,731,C-GVWJ,Boeing 737-7CT,36421,12,WestJet
+672,732,C-GWAZ,Boeing 737-7CT,32763,15,WestJet
+673,733,C-GWBF,Boeing 737-7CT,32757,16,WestJet
+674,734,C-GWBJ,Boeing 737-7CT,32754,16,WestJet
+675,735,C-GWBN,Boeing 737-7CT,34155,14,WestJet
+676,736,C-GWBT,Boeing 737-7CT,32755,16,WestJet
+677,737,C-GWBX,Boeing 737-7CT,34156,14,WestJet
+678,738,C-GWCM,Boeing 737-7CT,32756,16,WestJet
+679,739,C-GWCN,Boeing 737-7CT,34157,14,WestJet
+680,740,C-GWJE,Boeing 737-7CT,35078,12,WestJet
+681,741,C-GWJF,Boeing 737-7CT,32766,15,WestJet
+682,742,C-GWJG,Boeing 737-7CT,35504,12,WestJet
+683,743,C-GWJO,Boeing 737-7CT,33969,15,WestJet
+684,744,C-GWJT,Boeing 737-7CT,40388,9,WestJet
+685,745,C-GWSH,Boeing 737-76N,29886,17,WestJet
+686,746,C-GWSN,Boeing 737-7CT,37089,10,WestJet
+687,747,C-GWSO,Boeing 737-7CT,37090,10,WestJet
+688,748,C-GWSP,Boeing 737-7CT,36693,10,WestJet
+689,749,C-GWSQ,Boeing 737-7CT,37091,10,WestJet
+690,750,C-GWSU,Boeing 737-7CT,36689,11,WestJet
+691,751,C-GYWJ,Boeing 737-7CT,32772,14,WestJet
+692,753,C-FAWJ,Boeing 737-8CT,35502,12,WestJet
+693,754,C-FBWI,Boeing 737-8CT,39090,7,WestJet
+694,755,C-FCNW,Boeing 737-8CT,39092,9,WestJet
+695,756,C-FCSX,Boeing 737-8CT,60126,5,WestJet
+696,757,C-FDMB,Boeing 737-8CT,60127,5,WestJet
+697,758,C-FKRF,Boeing 737-8CT,60123,5,WestJet
+698,759,C-FKWJ,Boeing 737-8CT,36435,9,WestJet
+699,760,C-FRWA,Boeing 737-8CT,39085,7,WestJet
+700,761,C-FUCS,Boeing 737-8CT,60129,5,WestJet
+701,762,C-FUJR,Boeing 737-8CT,60130,5,WestJet
+702,763,C-FUMF,Boeing 737-8CT,60128,5,WestJet
+703,764,C-FUSM,Boeing 737-8CT,39081,6,WestJet
+704,765,C-FWIJ,Boeing 737-8CT,39072,7,WestJet
+705,766,C-FWJS,Boeing 737-8CT,39076,5,WestJet
+706,767,C-FWSE,Boeing 737-8CT,36690,10,WestJet
+707,768,C-FWVJ,Boeing 737-8CT,37962,8,WestJet
+708,769,C-FXMS,Boeing 737-8CT,40833,3,WestJet
+709,770,C-FZRM,Boeing 737-8CT,40840,3,WestJet
+710,771,C-GAWS,Boeing 737-8CT,38880,7,WestJet
+711,772,C-GJLS,Boeing 737-8CT,40845,2,WestJet
+712,773,C-GJLZ,Boeing 737-8CT,60125,5,WestJet
+713,774,C-GJWS,Boeing 737-8CT,34152,14,WestJet
+714,775,C-GKWA,Boeing 737-8CT,39089,7,WestJet
+715,776,C-GKWJ,Boeing 737-8CT,34151,15,WestJet
+716,777,C-GOCD,Boeing 737-8CT,40832,2,WestJet
+717,778,C-GVWA,Boeing 737-8CT,39088,6,WestJet
+718,779,C-GWBL,Boeing 737-8CT,34154,14,WestJet
+719,780,C-GWBU,Boeing 737-8CT,39075,5,WestJet
+720,781,C-GWRG,Boeing 737-8CT,39071,8,WestJet
+721,782,C-GWSA,Boeing 737-8CT,34153,14,WestJet
+722,783,C-GWSR,Boeing 737-8CT,35288,11,WestJet
+723,784,C-GWSV,Boeing 737-8CT,37158,11,WestJet
+724,785,C-GWSX,Boeing 737-8CT,36696,9,WestJet
+725,786,C-GWSZ,Boeing 737-8CT,37092,10,WestJet
+726,787,C-GWUX,Boeing 737-8CT,60124,5,WestJet
+727,788,C-GWWJ,Boeing 737-8CT,35080,12,WestJet
+728,789,C-GYSD,Boeing 737-8CT,40837,4,WestJet
+729,790,C-GZWS,Boeing 737-8CT,32770,14,WestJet
+730,792,C-FOGJ,Boeing 767-338(ER),25274,28,WestJet
+731,793,C-FOGT,Boeing 767-338(ER),25246,28,WestJet
+732,794,C-FWAD,Boeing 767-338(ER),25363,28,WestJet
+733,795,C-GOGN,Boeing 767-338(ER),25576,25,WestJet
+734,797,C-GKKN,Boeing 787-9 Dreamliner,64977,Brand,WestJet
+735,798,C-GUDH,Boeing 787-9 Dreamliner,64974,1,WestJet
+736,799,C-GUDO,Boeing 787-9 Dreamliner,64976,1,WestJet
+737,800,C-GURP,Boeing 787-9 Dreamliner,64975,1,WestJet
+738,801,C-GYRS,Boeing 787-9 Dreamliner,64978,Brand,WestJet
+739,803,C-FENJ,De Havilland Canada Dash 8-400,4496,5,WestJet
+740,804,C-FENO,De Havilland Canada Dash 8-400,4526,3,WestJet
+741,805,C-FENU,De Havilland Canada Dash 8-400,4446,6,WestJet
+742,806,C-FENY,De Havilland Canada Dash 8-400,4447,6,WestJet
+743,807,C-FHEN,De Havilland Canada Dash 8-400,4441,7,WestJet
+744,808,C-FIWE,De Havilland Canada Dash 8-400,4466,6,WestJet
+745,809,C-FJWE,De Havilland Canada Dash 8-400,4515,4,WestJet
+746,810,C-FKWE,De Havilland Canada Dash 8-400,4467,6,WestJet
+747,811,C-FNEN,De Havilland Canada Dash 8-400,4453,6,WestJet
+748,812,C-FOEN,De Havilland Canada Dash 8-400,4440,7,WestJet
+749,813,C-FOWE,De Havilland Canada Dash 8-400,4471,6,WestJet
+750,814,C-FQWE,De Havilland Canada Dash 8-400,4473,5,WestJet
+751,815,C-FSWE,De Havilland Canada Dash 8-400,4517,4,WestJet
+752,816,C-FUWE,De Havilland Canada Dash 8-400,4477,5,WestJet
+753,817,C-FWEP,De Havilland Canada Dash 8-400,4548,3,WestJet
+754,818,C-FWEW,De Havilland Canada Dash 8-400,4543,3,WestJet
+755,819,C-FWEZ,De Havilland Canada Dash 8-400,4483,5,WestJet
+756,820,C-GDEN,De Havilland Canada Dash 8-400,4500,4,WestJet
+757,821,C-GDEW,De Havilland Canada Dash 8-400,4563,2,WestJet
+758,822,C-GEEN,De Havilland Canada Dash 8-400,4501,4,WestJet
+759,823,C-GENK,De Havilland Canada Dash 8-400,4527,3,WestJet
+760,824,C-GENO,De Havilland Canada Dash 8-400,4535,3,WestJet
+761,825,C-GENU,De Havilland Canada Dash 8-400,4511,4,WestJet
+762,826,C-GENV,De Havilland Canada Dash 8-400,4553,3,WestJet
+763,827,C-GEWR,De Havilland Canada Dash 8-400,4546,3,WestJet
+764,828,C-GJEN,De Havilland Canada Dash 8-400,4536,3,WestJet
+765,829,C-GJWE,De Havilland Canada Dash 8-400,4460,6,WestJet
+766,830,C-GKWE,De Havilland Canada Dash 8-400,4549,3,WestJet
+767,831,C-GLWJ,De Havilland Canada Dash 8-400,4522,4,WestJet
+768,832,C-GPWE,De Havilland Canada Dash 8-400,4552,3,WestJet
+769,833,C-GTWE,De Havilland Canada Dash 8-400,4518,4,WestJet
+770,834,C-GVEN,De Havilland Canada Dash 8-400,4532,4,WestJet
+771,835,C-GVWE,De Havilland Canada Dash 8-400,4485,5,WestJet
+772,836,C-GWEF,De Havilland Canada Dash 8-400,4487,5,WestJet
+773,837,C-GWEG,De Havilland Canada Dash 8-400,4488,5,WestJet
+774,838,C-GWEJ,De Havilland Canada Dash 8-400,4557,2,WestJet
+775,839,C-GWEN,De Havilland Canada Dash 8-400,4537,3,WestJet
+776,840,C-GWEO,De Havilland Canada Dash 8-400,4462,6,WestJet
+777,841,C-GWEP,De Havilland Canada Dash 8-400,4463,6,WestJet
+778,842,C-GWEQ,De Havilland Canada Dash 8-400,4490,5,WestJet
+779,843,C-GWEU,De Havilland Canada Dash 8-400,4493,5,WestJet
+780,844,C-GWFE,De Havilland Canada Dash 8-400,4568,2,WestJet
+781,845,C-GWJK,De Havilland Canada Dash 8-400,4556,2,WestJet
+782,846,C-GWRE,De Havilland Canada Dash 8-400,4576,2,WestJet
+783,847,C-GWUE,De Havilland Canada Dash 8-400,4560,2,WestJet
+784,849,C-GPCF,Saab 340B,340B-426,22,WestJet
+785,850,C-GPCI,Saab 340B,340B-407,23,WestJet
+786,851,C-GPCJ,Saab 340B,340B-414,36,WestJet
+787,853,C-FLBV,Boeing 737-8CT,40836,4,Swoop
+788,854,C-FLSF,Boeing 737-8CT,40838,4,Swoop
+789,855,C-FONK,Boeing 737-8CT,40835,4,Swoop
+790,856,C-FPLS,Boeing 737-8CT,60132,4,Swoop
+791,857,C-FYBK,Boeing 737-8CT,40336,4,Swoop
+792,858,C-FYPB,Boeing 737-8CT,40839,4,Swoop
+793,859,C-GDMP,Boeing 737-8CT,60131,5,Swoop
+794,860,C-GNDG,Boeing 737-8CT,40337,4,Swoop
+795,861,C-GXRW,Boeing 737-8CT,39082,4,Swoop
+796,863,C-FAXD,Boeing 737 MAX 8,44299,1,Sunwing
+797,864,C-FMXA,Boeing 737 MAX 8,43297,1,Sunwing
+798,865,C-FTXE,Boeing 737 MAX 8,43301,1,Sunwing
+799,866,C-FTXF,Boeing 737 MAX 8,43303,1,Sunwing
+800,867,C-FYXC,Boeing 737 MAX 8,44298,1,Sunwing
+801,868,C-GMXB,Boeing 737 MAX 8,60387,1,Sunwing
+802,870,C-FDBD,Boeing 737-8Q8,30703,13,Sunwing
+803,871,C-FFPH,Boeing 737-81D,39440,5,Sunwing
+804,872,C-FJVE,Boeing 737-8DC,34596,14,Sunwing
+805,873,C-FLSW,Boeing 737-8HX,36552,11,Sunwing
+806,874,C-FPRP,Boeing 737-8FH,39959,4,Sunwing
+807,875,C-FTDW,Boeing 737-808,34704,13,Sunwing
+808,876,C-FTOH,Boeing 737-8HX,29647,11,Sunwing
+809,877,C-FWGH,Boeing 737-86J,37752,8,Sunwing
+810,878,C-FYJD,Boeing 737-8Q8,41807,4,Sunwing
+811,879,C-GBZS,Boeing 737-8SH,42053,4,Sunwing
+812,880,C-GFEH,Boeing 737-8GS,41608,5,Sunwing
+813,881,C-GLRN,Boeing 737-8SH,41353,3,Sunwing
+814,882,C-GNCH,Boeing 737-81D,39438,6,Sunwing
+815,883,C-GOWG,Boeing 737-86J,37757,9,Sunwing
+816,885,C-FIQR,ATR 42-300(QC),133,31,First Air
+817,886,C-FIQU,ATR 42-300(QC),138,31,First Air
+818,887,C-GHCP,ATR 42-300(QC),123,31,First Air
+819,888,C-GKLB,ATR 42-300,331,27,First Air
+820,889,C-GSRR,ATR 42-300(QC),125,31,First Air
+821,890,C-GULU,ATR 42-320,155,30,First Air
+822,891,C-GUNO,ATR 42-320,132,31,First Air
+823,893,C-FTID,ATR 42-500,510,23,First Air
+824,894,C-FTIK,ATR 42-500,604,20,First Air
+825,895,C-FTIQ,ATR 42-500,609,19,First Air
+826,896,C-FTIR,ATR 42-500,503,24,First Air
+827,897,C-FTIZ,ATR 42-500,556,22,First Air
+828,899,C-FFNC,Boeing 737-406(C),27232,26,First Air
+829,900,C-FFNE,Boeing 737-406(A),27233,26,First Air
+830,901,C-FFNF,Boeing 737-406(A),25412,28,First Air
+831,902,C-FFNM,Boeing 737-436,25839,28,First Air
+832,904,C-GHPW,Lockheed L-100-30 Hercules,4799,39,First Air
+833,906,C-FERJ,Avro RJ85,E2290,23,First Air

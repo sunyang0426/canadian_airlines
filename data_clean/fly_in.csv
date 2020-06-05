@@ -1,0 +1,237 @@
+﻿name,province,Nearby_airport ,code,region,population(2011),population(2016,latitude,longtitude,distance_to_service_center,marine,rail_way,air,road,year_round_surface_access,avg_time_isolation,local_food_stores,southern_suppliers_nnc,electricity_rates
+Iqaluit,Nunavut,iqaluit airport,YFB,Baffin,"6,699","7,740",63.7520855,-68.5175009,"2,096 km from Ottawa by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd-Arctic Ventures
+							D.J. Specialties
+							Baffin Island Canners",9,"May 2015
+							Commercial: $0.5068/kwh
+							Domestic: $0.6029/kwh
+							Source: Diesel"
+Rankin Inlet,Nunavut,Rankin Inlet airport,YRT,Kivalliq,"2,577","2,842",62.831855,-92.1223281,"1,470 km from Winnipeg by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",8,"May 2015
+							Commercial: $0.5404/kwh
+							Domestic:$0.6223/kwh
+							Source: Diesel"
+Kuujjuaq,Quebec,Kuujjuaq airport,YVP,Nunavik,"2,375","2,754",58.145083,-68.38002,"1,431 km from Montreal by air", Summer access, no, Year-round ,no,No,11 months,"North West Company (registered)
+F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered)
+							Newviq'vi",4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel/Solar"
+Arviat,Nunavut,Arviat airport,YEK,Kivalliq,"2,318","2,657",61.0893243,-94.1215829,"260 km north of Churchill,
+							630 km north of Thompson and 1,263 km
+							north of Winnipeg by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)
+							Eskimo Point Lumber Supply (registered)",8,"May 2015
+							Commercial: $0.7403/kwh
+							Domestic:$0.7914/kwh
+							Source: Diesel"
+Baker Lake,Nunavut,Baker Lake airport,YBK,Kivalliq,"1,872","2,069",64.3282985,-96.0141897,"320 km inland from Hudson Bay; 1,607 km from Winnipeg,
+							960 km from Thompson by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)
+							Baker Lake 1st Cdn Foods",8,"May 2015
+							Commercial: $0.6609/kwh
+							Domestic:$0.7031/kwh
+							Source: Diesel"
+Puvirnituq,Quebec,Puvirnituq airport,YPX,Nunavik,"1,692","1,779",60.0449329,-77.2896755,"1,612 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,"North West Company (registered)
+F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered)",4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel"
+Cambridge Bay,Nunavut,Cambridge Bay airport,YCB,Kitikmeot,"1,608","1,766",69.1165925,-105.0545686,887 km to Yellowknife by air, Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",4,"May 2015
+							Commercial: $0.6607/kwh
+							Domestic:$0.7606/kwh
+							Source: Diesel"
+Inukjuak,Quebec,Inukjuak airport,YPH,Nunavik,"1,597","1,757",58.4701375,-78.1518305,"1,471 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,"North West Company (registered)
+F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered)",4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel"
+Pond Inlet,Nunavut,Pond Inlet airport,YIO,Baffin,"1,549","1,617",72.6943614,-77.7957128,"3,045 km north of Ottawa by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",9,"May 2015
+							Commercial: $0.8288/kwh
+							Domestic:$0.8995/kwh
+							Source: Diesel"
+Kuujjuarapik / Whapmagoostui,Quebec,Kuujjuarapik airport,YGW,Nunavik,"1,531","1,670",55.2938411,-77.7471335,"1,100 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,"North West Company (registered)
+F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered)",4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Kuujjuarapik Local Grid"
+Igloolik,Nunavut,Igloolik airport,YGT,Baffin,"1,454","1,682",69.3853236,-81.7006255,"2,695 km north of Ottawa by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",9,"May 2015
+							Commercial: $0.5835/kwh
+							Domestic:$0.6323/kwh
+							Source: Diesel"
+Kugluktuk,Nunavut,Kugluktuk airport,YCO,Kitikmeot,"1,450","1,491",67.8173571,-115.3288739,599 km from Yellowknife by air, Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",4,"May 2015
+							Commercial: $0.8719/kwh
+							Domestic:$0.9332/kwh
+							Source: Diesel"
+Pangnirtung,Nunavut,Pangnirtung airport,YXP,Baffin,"1,425","1,481",66.1435535,-65.6811111,"2,390 km north of Ottawa by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",9,"May 2015
+							Commercial: $0.5866/kwh
+							Domestic:$0.6574/kwh
+							Source: Diesel"
+Cape Dorset/ Kinngait,Nunavut,Cape Dorset airport,YTE,Baffin,"1,363","1,441",64.2271644,-76.5393359,2102 km from Ottawa by air, Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",9,"May 2015
+							Commercial: $0.6447/kwh
+							Domestic:$0.6859/kwh
+							Source: Diesel"
+Salluit,Quebec,Salluit airport,YZG,Nunavik,"1,347","1,483",62.2012846,-75.646856,"1,732 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,"North West Company (registered)
+F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered)",4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel"
+Gjoa Haven,Nunavut,Gjoa Haven airport,YHK,Kitikmeot,"1,279","1,324",68.6435395,-95.9054581,"1,088 km northeast of Yellowknife by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",4,"May 2015
+							Commercial: $0.8596/kwh
+							Domestic:$0.8549/kwh
+							Source: Diesel"
+Nain,Newfoundland and Labrador,Nain airport,YDP,Labrador,"1,188","1,125",56.5295706,-61.7567419,370 km by air from Happy Valley-Goose Bay, Seasonal access, no, Year-round ,no,No,8 months,"North West Company (registered)
+							Labrador Investment/ Big Land Grocery (registered)
+							Jacquie D's",4,"August 2011
+							Provincial off-grid average: $0.14/kwh
+							Source: Diesel"
+Repulse Bay/ Naujaat,Nunavut, Naujaat airport,YUT,Kivalliq,945,"1,082",66.5594115,-86.247268,"1,952 km from Winnipeg and 1345 km from Thompson by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",8,"May 2015
+							Commercial: $0.753/kwh
+							Domestic:$0.8506/kwh
+							Source: Diesel"
+Clyde River,Nunavut,Clyde River airport,YCY,Baffin,934,"1,053",70.4368016,-68.4369946,"2,808 km north of Ottawa by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)
+							Arruja",9,"May 2015
+							Commercial: $0.6966/kwh
+							Domestic:$0.7819/kwh
+							Source: Diesel"
+Natuashish,Newfoundland and Labrador,Natuashish airport,YNP,Labrador,931,936,55.9166721,-61.1291175,300 km by air from Happy Valley-Goose Bay, Seasonal access, no, Year-round ,no,No,8 months,Mushuau General Store,4,"August 2011
+							Provincial off-grid average: $0.14/kwh
+							Source: Diesel"
+Taloyoak,Nunavut,Taloyoak airport,YYH,Kitikmeot,899,"1,029",69.5524798,-93.502474,"1,219 km from Yellowknife by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",4,"May 2015
+							Commercial: $0.9678/kwh
+							Domestic:$0.9836/kwh
+							Source: Diesel"
+Kangiqsualujjuaq,Quebec,Kangiqsualujjuaq airport,XGR,Nunavik,874,N/A,58.6985256,-65.9712038,"1,688 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,"North West Company (registered)
+F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered)",4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel"
+Coral Harbour,Nunavut,Coral Harbour airport,YZS,Kivalliq,834,891,64.1620184,-83.2150236,"1,237 km from Thompson, 1,788 km from Winnipeg,
+							715 km southeast of Iqaluit by air", Summer access, no, Year-round , No,No,11 months,"North West Company Arctic (registered)
+							Co-operatives Ltd (registered)",8,"May 2015
+							Commercial: $0.8711/kwh
+							Domestic:$0.9466/kwh
+							Source: Diesel"
+Arctic Bay,Nunavut,Arctic Bay airport,YAB,Baffin,823,868,73.0521178,-85.1867191,1672 km from Yellowknife and 3118 km from Ottawa by air, Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",9,"May 2015
+							Commercial: $0.7897/kwh
+							Domestic:$0.8787/kwh
+							Source: Diesel"
+Sanikiluaq,Nunavut,Sanikiluaq airport,YSK,Baffin,812,882,56.5859651,-79.2084696,"1,271 km from Ottawa by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",9,"May 2015
+							Commercial: $0.7901/kwh
+							Domestic:$0.8225/kwh
+							Source: Diesel"
+Kugaaruk,Nunavut,Kugaaruk airport,YBB,Kitikmeot,771,933,68.532084,-89.8114512,"1,307 km from Yellowknife by air", Summer access, no, Year-round , No,No,11 months,Arctic Co-operatives Ltd (registered),4,"May 2015
+							Commercial: $1.0177/kwh
+							Domestic:$1.0177/kwh
+							Source: Diesel"
+Kangiqsujuaq,Quebec,Kangiqsujuaq airport,YWB,Nunavik,696,750,61.588465,-71.92912,"1,774 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,"North West Company (registered)
+F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered)",4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel"
+Akulivik,Quebec,Akulivik airport,AKV,Nunavik,615,633,60.8490242,-78.1430357,"1,850 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,"North West Company (registered)
+F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered)",4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel"
+Hopedale,Newfoundland and Labrador,Hopedale airport,YHO,Labrador,556,583,55.4588608,-60.2233509,230 km by air from Happy Valley-Goose Bay, Seasonal access, no, Year-round ,no,No,8 months,"Labrador Investment/Big Land Grocery (registered)
+							DJ's Gift Shop",4,"August 2011
+							Provincial off-grid average: $0.14/kwh
+							Source: Diesel"
+Kangirsuk,Quebec,Kangirsuk airport,YKG,Nunavik,549,N/A,60.0372394,-70.0395329,"1,617 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,"North West Company (registered)
+F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered)",4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel"
+Hall Beach/ Sanirajak,Nunavut,Hall Beach airport,YUX,Baffin,546,848,68.7720573,-81.2652627,"69 km south of Igloolik, 2,625 km north of Ottawa by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",9,"May 2015
+							Commercial: $0.8591/kwh
+							Domestic:$0.8903/kwh
+							Source: Diesel"
+Qikiqtarjuaq,Nunavut,Qikiqtarjuaq airport,YVM,Baffin,520,598,67.5738034,-63.882366,"2,562 km north of Ottawa by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",9,"May 2015
+							Commercial: $0.7406/kwh
+							Domestic:$0.7792/kwh
+							Source: Diesel"
+Kimmirut,Nunavut,Kimmirut airport,YLC,Baffin,455,389,62.8482786,-69.8720296,"1,982 km north of Ottawa by air", Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",9,"May 2015
+							Commercial: $0.877/kwh
+							Domestic:$1.0374kwh
+							Source: Diesel"
+Umiujaq,Quebec,Umiujaq airport,YUD,Nunavik,444,442,56.545083,-76.5056283,"1,219 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,"North West Company (registered)
+F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered)",4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel"
+Whale Cove,Nunavut,Whale Cove airport,YXN,Kivalliq,407,435,62.2616616,-92.8824028,"72 km south of Rankin Inlet, 1402 km from Winnipeg and 783 km from Thompson by air", Summer access, no, Year-round , No,No,11 months,Arctic Co-operatives Ltd (registered),8,"May 2015
+							Commercial: $1.1118/kwh
+							Domestic:$0.9042/kwh
+							Source: Diesel"
+Ulukhaktok (Holman),Northwest Territories,Ulukhaktok/ Holman airport,YHI,Beaufort Delta,402,396,70.7338648,-117.7550333,667 km east of Inuvik and 932 km north of Yellowknife by air, Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic Co-operatives Ltd (registered)",2,"April 2015
+							Commercial: $0.5277/kwh
+							Domestic (Subsidized): $0.2853-0.62/kwh
+							Source: Diesel"
+Quaqtaq,Quebec,Quaqtaq airport,YQC,Nunavik,376,403,61.0360211,-69.5730235,"1,732 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered),4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel"
+Ivujivik,Quebec,Ivujivik airport,YIK,Nunavik,370,414,62.4108639,-77.8706945,"2,000 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered),4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel"
+Makkovik,Newfoundland and Labrador,Makkovik airport,YMN,Labrador,361,N/A,55.0897901,-59.1819625,210 km by air from Happy Valley-Goose Bay, Seasonal access, no, Year-round ,no,No,8 months,Labrador Investment/Bigland Grocery (registered) Skipper Gil's,4,"August 2011
+							Provincial off-grid average: $0.14/kwh
+							Source: Diesel"
+Paulatuk,Northwest Territories,Paulatuk airport,YPC,Beaufort Delta,313,312,69.3284537,-123.991291,885 km northwest of Yellowknife and 402 km east of Inuvik by air, Summer access, no, Year-round , No,No,11 months,North West Company (registered),2,"April 2015
+							Commercial: $0.5277/kwh
+							Domestic (Subsidized): $0.2853-0.62/kwh
+							Source: Diesel"
+Chesterfield Inlet,Nunavut,Chesterfield Inlet airport,YCS,Kivalliq,313,437,63.3183532,-90.8075718,934 km north of Thompson and 1543 km from Winnipeg by air, Summer access, no, Year-round , No,No,11 months,"North West Company (registered)
+							Arctic co-operatives Ltd (registered)",8,"May 2015
+							Commercial: $0.9114/kwh
+							Domestic:$0.9754/kwh
+							Source: Diesel"
+Rigolet,Newfoundland and Labrador,Rigolet airport,YRG,Labrador,306,310,54.1789602,-58.4340702,160 km by air from Happy Valley-Goose Bay, Seasonal access, no, Year-round ,no,No,8 months,North West Company (registered),4,"August 2011
+							Provincial off-grid average: $0.14/kwh
+							Source: Diesel"
+Tasiujaq,Quebec,Tasiujaq airport,YTQ,Nunavik,303,N/A,58.7151893,-69.8810989,"1,542 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered),4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel"
+Lutsel K'e,Northwest Territories,Lutsel K'e airport,YSG,Great Slave Lake,295,316,62.3901831,-110.6772028,310 km from Yellowknife, Summer access, no, Year-round , No,No,11 months,Lutsel K'e Coop,1,"April 2015
+							Commercial: $0.5277/kwh
+							Domestic (Subsidized): $0.2853-0.62/kwh
+							Source: Diesel"
+Resolute,Nunavut,Resolute bay airport,YRB,Baffin,214,198,74.7043418,-94.9100499,"3,396 km north of Ottawa, 1560 km to Yellowknife by air", Summer access, no, Year-round , No,No,11 months,"Arctic Co-operatives Ltd (registered)
+							South Camp Inn (registered)",9,"May 2015
+							Commercial: $0.9681/kwh
+							Domestic:$1.0135/kwh
+							Source: Diesel"
+Postville,Newfoundland and Labrador,Postville airport,YSO,Labrador,206,177,54.9082463,-59.7780029,180 km by air from Happy Valley-Goose Bay, Seasonal access, no, Year-round ,no,No,8 months,Sheppard's Variety,4,"August 2011
+							Provincial off-grid average: $0.14/kwh
+							Source: Diesel"
+Aupaluk,Quebec,Aupaluk airport,YPJ,Nunavik,195,N/A,59.2955469,-69.5785509,"1,542 km by air from Montreal", Summer access, no, Year-round ,no,No,11 months,F√©d√©ration des Coop√©ratives du Nouveau-Qu√©bec (registered),4,"August 2011
+							Provincial off-grid average: $0.40/kwh
+							Source: Diesel"
+Black Tickle,Newfoundland and Labrador,Black Tickle airport,YBI,Labrador,168,147,53.3333431,-55.785,235 km by air from St. Anthony, Seasonal access, no, Year-round ,no,No,8 months,"L&K Enterprise
+							T&S Variety",4,"August 2011
+							Provincial off-grid average: $0.14/kwh
+							Source: Diesel"
+Grise Fiord,Nunavut,Grise Fiord airport,YGZ,Baffin,130,129,76.4788436,-82.785168,"3471 km from Ottawa and 1,933 km from Yellowknife by air", Summer access, no, Year-round , No,No,11 months,Arctic Co-operatives Ltd (registered),9,"May 2015
+							Commercial: $1.0592/kwh
+							Domestic:$0.9209/kwh
+							Source: Diesel"
+Sachs Harbour,Northwest Territories,Sachs Harbour airport,YSY,Beaufort Delta,112,103,71.9868753,-125.2664833,523 km northeast of Inuvik and 885 km northwest of Yellowknife by air, Summer access, no, Year-round , No,No,11 months,Arctic Co-operatives Ltd (registered),2,"April 2015
+							Commercial: $0.5277/kwh
+							Domestic (Subsidized): $0.2853-0.62/kwh
+							Source: Diesel"
+Williams Harbour,Newfoundland and Labrador,N/A,N/A,Labrador,18,N/A,52.5585076,-55.766665,132 km by air from St. Anthony, Seasonal access, no, Year-round ,no,No,8 months,"Larkham's Store
+							Russell Freeman and Sons Ltd",Not eligible for NNC,"August 2011
+							Provincial off-grid average: $0.14/kwh
+							Source: Diesel"
+Granville Lake,Manitoba,,,Northern Manitoba,16,,56.3825704,-100.487384,114 km by air from Thompson; short fly-in from Lynn Lake which has road access, Summer access, no, Year-round , Snowmobile access,No,9 months,N/A,Not eligible for NNC,"August 2011
+							Provincial off-grid average: $0.36/kwh
+							Source: N/A"
+McDowell Lake,Ontario,,,Northern Ontario,0,,49.2339081,-81.2801189,155 km by air from Red Lake, no, no," Year-round charter, no airport", No winter road built in recent years,No,12 months,N/A,Not eligible for NNC,"August 2011 
+							Provincial off-grid average: $0.17/kwh
+							Source: N/A"
